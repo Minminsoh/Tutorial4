@@ -1,0 +1,28 @@
+{
+    "id": "FC071DDD",
+    "path": "/cloud/project/Tutorial4.Rmd",
+    "project_path": "Tutorial4.Rmd",
+    "type": "r_markdown",
+    "hash": "3779392006",
+    "contents": "",
+    "dirty": false,
+    "created": 1648022062045.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "29,0",
+        "scrollLine": "26",
+        "last_setup_crc32": "94bf82b0bb338d19"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1648024291,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1648024291635,
+    "read_only": false,
+    "read_only_alternatives": []
+}
